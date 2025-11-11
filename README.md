@@ -5,7 +5,7 @@ Curious developer and computer science student driven by exploration and scienti
 
 
 <div align="center" style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaidesr&layout=compact&theme=dracula&hide=SCSS,Nunjucks,Tex&hide_border=true&cache_bust=20251111091632" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaidesr&layout=compact&theme=dracula&hide=SCSS,Nunjucks,Tex,HTML,CSS&hide_border=true&cache_bust=20251111091632" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=voaidesr&theme=dracula&hide_border=true&cache_bust=20251111091632" alt="GitHub Streak" height="165" />
 </div>
 <p align="center">
