@@ -5,16 +5,16 @@ Curious developer and computer science student driven by exploration and scienti
 
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaidesr&layout=compact&theme=transparent&hide=SCSS,Nunjucks,Tex,HTML,CSS&hide_border=true&cache_bust=20251125010834" alt="Top Languages" />
-  <!-- <img src="https://streak-stats.demolab.com?user=voaidesr&theme=transparent&hide_border=true&cache_bust=20251125010834" alt="GitHub Streak" height="165" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaidesr&layout=compact&theme=transparent&hide=SCSS,Nunjucks,Tex,HTML,CSS&hide_border=true&cache_bust=20251125031030" alt="Top Languages" />
+  <!-- <img src="https://streak-stats.demolab.com?user=voaidesr&theme=transparent&hide_border=true&cache_bust=20251125031030" alt="GitHub Streak" height="165" /> -->
 </div>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voaidesr&theme=transparent&cache_bust=20251125010834" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voaidesr&theme=transparent&cache_bust=20251125031030" alt="GitHub Summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voaidesr&hide&show_icons=true&theme=transparent&cache_bust=20251125010834" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voaidesr&hide&show_icons=true&theme=transparent&cache_bust=20251125031030" alt="GitHub Stats" height="165" />
 </p>
 
 <!--stats-update-->
-_Last updated: 2025-11-25 01:08 UTC_
+_Last updated: 2025-11-25 03:10 UTC_
 <!--/stats-update-->
