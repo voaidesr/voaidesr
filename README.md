@@ -3,17 +3,17 @@
 
 Curious developer and computer science student driven by exploration and scientific problem-solving.
 
-
+<!--
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaidesr&layout=compact&theme=transparent&hide=SCSS,Nunjucks,Tex,HTML,CSS&hide_border=true&cache_bust=20251129081849" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voaidesr&layout=compact&theme=transparent&hide=SCSS,Nunjucks,Tex,HTML,CSS&hide_border=true&cache_bust=20251129081849" alt="Top Languages" /> -->
   <!-- <img src="https://streak-stats.demolab.com?user=voaidesr&theme=transparent&hide_border=true&cache_bust=20251129081849" alt="GitHub Streak" height="165" /> -->
-</div>
+<!-- </div> -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voaidesr&theme=transparent&cache_bust=20251129081849" alt="GitHub Summary" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=voaidesr&hide&show_icons=true&theme=transparent&cache_bust=20251129081849" alt="GitHub Stats" height="165" />
-</p>
+</p> -->
 
 <!--stats-update-->
 _Last updated: 2025-11-29 08:18 UTC_
