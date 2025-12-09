@@ -3,11 +3,6 @@
 
 Curious developer and computer science student driven by exploration and scientific problem-solving.
 
-
-<div align="center" >
-  <img src="https://my-stats-red.vercel.app/api/top-langs/?username=voaidesr&layout=compact&theme=transparent&hide=Jupyter Notebook,Javascript,SCSS,Nunjucks,Tex,HTML,CSS&hide_border=true&cache_bust=20251209133208" alt="Top Languages" />
-
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voaidesr&theme=transparent&cache_bust=20251209133208" alt="GitHub Summary" />
 </p>
