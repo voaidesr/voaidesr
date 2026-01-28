@@ -4,12 +4,12 @@
 Curious developer and computer science student driven by exploration and scientific problem-solving.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voaidesr&theme=transparent&cache_bust=20260128123655" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=voaidesr&theme=transparent&cache_bust=20260128134308" alt="GitHub Summary" />
 </p>
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voaidesr&hide&show_icons=true&theme=transparent&cache_bust=20260128123655" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voaidesr&hide&show_icons=true&theme=transparent&cache_bust=20260128134308" alt="GitHub Stats" height="165" />
 </p> -->
 
 <!--stats-update-->
-_Last updated: 2026-01-28 12:36 UTC_
+_Last updated: 2026-01-28 13:43 UTC_
 <!--/stats-update-->
